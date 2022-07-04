@@ -6,7 +6,7 @@
 [![young924's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=young924&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/young924)
 
 
-### Skills
+### 💪 Skills
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
 ![Ruby On Rails](https://img.shields.io/badge/Ruby%20On%20Rails-CC0000?style=flat-square&logo=Ruby%20On%20Rails&logoColor=white)
 ![Express](https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white)
